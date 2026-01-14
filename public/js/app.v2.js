@@ -1,5 +1,5 @@
 // Konfigurasi API
-const API_BASE = "https://shinai.onrender.com";
+const API_BASE = window.location.origin;
 const API_KEY = 'nvcdnxvandecim';
 
 // State management
